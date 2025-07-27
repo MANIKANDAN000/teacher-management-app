@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧑‍🏫 Teacher Management Interface
 
 A modern, responsive, and accessible Teacher Management Interface built using **Next.js**, **TypeScript**, and **Tailwind CSS**. This application focuses on delivering a clean UI, seamless user experience, and adheres to modern frontend development standards.
@@ -155,7 +154,3 @@ This project is licensed under the MIT License.
 
 
 
-=======
-# teacher-management-app
-A modern, responsive, and accessible Teacher Management Interface built using **Next.js**, **TypeScript**, and **Tailwind CSS**. This application focuses on delivering a clean UI, seamless user experience, and adheres to modern frontend development standards.
->>>>>>> ccc0bd94db689e831f43e4c59878e25ad85a8776
